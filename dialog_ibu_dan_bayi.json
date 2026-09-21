@@ -1,0 +1,95 @@
+{
+  "judul": "Dialog Ibu Syamsiah dan Bayi Syuaib",
+  "tokoh": {
+    "ibu": "Syamsiah",
+    "bayi": "Syuaib",
+    "ayah": "Idris"
+  },
+  "dialog": [
+    {
+      "pembicara": "Ibu Syamsiah",
+      "ucapan": "Selamat pagi, Syuaib. Sudah bangun, ya?",
+      "indera_terlibat": ["pendengaran", "penglihatan"]
+    },
+    {
+      "pembicara": "Syuaib",
+      "ucapan": "Aaa... baa...",
+      "indera_terlibat": ["pendengaran"]
+    },
+    {
+      "pembicara": "Ibu Syamsiah",
+      "ucapan": "Wah, ada senyum untuk Ibu. Semalam tidurnya nyenyak?",
+      "indera_terlibat": ["penglihatan", "pendengaran"]
+    },
+    {
+      "pembicara": "Syuaib",
+      "ucapan": "Hehe... eee...",
+      "indera_terlibat": ["pendengaran"]
+    },
+    {
+      "pembicara": "Ibu Syamsiah",
+      "ucapan": "Ibu anggap itu jawaban ‘iya’. Yuk, kita ganti popok dulu supaya nyaman.",
+      "indera_terlibat": ["pendengaran", "peraba"]
+    },
+    {
+      "pembicara": "Syuaib",
+      "ucapan": "Uaa... uaa...",
+      "indera_terlibat": ["pendengaran", "peraba"]
+    },
+    {
+      "pembicara": "Ibu Syamsiah",
+      "ucapan": "Sebentar saja, Nak. Ibu di sini, kok. Tidak perlu khawatir.",
+      "indera_terlibat": ["pendengaran", "peraba"]
+    },
+    {
+      "pembicara": "Syuaib",
+      "ucapan": "Gugu... ga!",
+      "indera_terlibat": ["pendengaran"]
+    },
+    {
+      "pembicara": "Ayah Idris",
+      "ucapan": "Assalamu'alaikum, Syuaib. Ayah datang melihat jagoan kecil Ayah.",
+      "indera_terlibat": ["pendengaran", "penglihatan"]
+    },
+    {
+      "pembicara": "Syuaib",
+      "ucapan": "Aah... hehe!",
+      "indera_terlibat": ["pendengaran"]
+    },
+    {
+      "pembicara": "Ibu Syamsiah",
+      "ucapan": "Lihat, Yah. Syuaib senang mendengar suara Ayah.",
+      "indera_terlibat": ["penglihatan", "pendengaran"]
+    },
+    {
+      "pembicara": "Ayah Idris",
+      "ucapan": "Ayah juga senang sekali. Setelah minum susu, kita lihat cahaya pagi di jendela, ya.",
+      "indera_terlibat": ["pendengaran", "penglihatan", "pengecap"]
+    },
+    {
+      "pembicara": "Syuaib",
+      "ucapan": "Mm... mm...",
+      "indera_terlibat": ["pendengaran", "pengecap"]
+    },
+    {
+      "pembicara": "Ibu Syamsiah",
+      "ucapan": "Pelan-pelan, Sayang. Kamu tumbuh sehat setiap hari, dan Ibu bahagia melihatmu.",
+      "indera_terlibat": ["pendengaran", "penglihatan"]
+    },
+    {
+      "pembicara": "Syuaib",
+      "ucapan": "Hehe!",
+      "indera_terlibat": ["pendengaran"]
+    },
+    {
+      "pembicara": "Ayah Idris",
+      "ucapan": "Tawa Syuaib adalah kebahagiaan Ayah dan Ibu.",
+      "indera_terlibat": ["pendengaran"]
+    },
+    {
+      "pembicara": "Ibu Syamsiah",
+      "ucapan": "Kami sayang sekali kepada Syuaib.",
+      "indera_terlibat": ["pendengaran", "penglihatan"]
+    }
+  ]
+}
