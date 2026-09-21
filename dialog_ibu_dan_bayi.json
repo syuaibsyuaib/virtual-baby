@@ -9,87 +9,670 @@
     {
       "pembicara": "Ibu Syamsiah",
       "ucapan": "Selamat pagi, Syuaib. Sudah bangun, ya?",
-      "indera_terlibat": ["pendengaran", "penglihatan"]
+      "node_kata": [
+        "selamat",
+        "pagi",
+        "syuaib",
+        "sudah",
+        "bangun",
+        "ya"
+      ],
+      "node_makna": [
+        "selamat pagi syuaib",
+        "sudah bangun ya"
+      ],
+      "indera_terlibat": [
+        "pendengaran",
+        "penglihatan"
+      ]
     },
     {
       "pembicara": "Syuaib",
       "ucapan": "Aaa... baa...",
-      "indera_terlibat": ["pendengaran"]
+      "node_kata": [
+        "aaa",
+        "baa"
+      ],
+      "node_makna": [
+        "aaa",
+        "baa"
+      ],
+      "indera_terlibat": [
+        "pendengaran"
+      ]
     },
     {
       "pembicara": "Ibu Syamsiah",
       "ucapan": "Wah, ada senyum untuk Ibu. Semalam tidurnya nyenyak?",
-      "indera_terlibat": ["penglihatan", "pendengaran"]
+      "node_kata": [
+        "wah",
+        "ada",
+        "senyum",
+        "untuk",
+        "ibu",
+        "semalam",
+        "tidurnya",
+        "nyenyak"
+      ],
+      "node_makna": [
+        "ada senyum untuk ibu",
+        "semalam tidurnya nyenyak"
+      ],
+      "indera_terlibat": [
+        "penglihatan",
+        "pendengaran"
+      ]
     },
     {
       "pembicara": "Syuaib",
       "ucapan": "Hehe... eee...",
-      "indera_terlibat": ["pendengaran"]
+      "node_kata": [
+        "hehe",
+        "eee"
+      ],
+      "node_makna": [
+        "hehe",
+        "eee"
+      ],
+      "indera_terlibat": [
+        "pendengaran"
+      ]
     },
     {
       "pembicara": "Ibu Syamsiah",
       "ucapan": "Ibu anggap itu jawaban ‘iya’. Yuk, kita ganti popok dulu supaya nyaman.",
-      "indera_terlibat": ["pendengaran", "peraba"]
+      "node_kata": [
+        "ibu",
+        "anggap",
+        "itu",
+        "jawaban",
+        "iya",
+        "yuk",
+        "kita",
+        "ganti",
+        "popok",
+        "dulu",
+        "supaya",
+        "nyaman"
+      ],
+      "node_makna": [
+        "ibu anggap itu jawaban iya",
+        "yuk kita ganti popok dulu",
+        "supaya nyaman"
+      ],
+      "indera_terlibat": [
+        "pendengaran",
+        "peraba"
+      ]
     },
     {
       "pembicara": "Syuaib",
       "ucapan": "Uaa... uaa...",
-      "indera_terlibat": ["pendengaran", "peraba"]
+      "node_kata": [
+        "uaa",
+        "uaa"
+      ],
+      "node_makna": [
+        "uaa",
+        "uaa"
+      ],
+      "indera_terlibat": [
+        "pendengaran",
+        "peraba"
+      ]
     },
     {
       "pembicara": "Ibu Syamsiah",
       "ucapan": "Sebentar saja, Nak. Ibu di sini, kok. Tidak perlu khawatir.",
-      "indera_terlibat": ["pendengaran", "peraba"]
+      "node_kata": [
+        "sebentar",
+        "saja",
+        "nak",
+        "ibu",
+        "di",
+        "sini",
+        "kok",
+        "tidak",
+        "perlu",
+        "khawatir"
+      ],
+      "node_makna": [
+        "sebentar saja nak",
+        "ibu di sini kok",
+        "tidak perlu khawatir"
+      ],
+      "indera_terlibat": [
+        "pendengaran",
+        "peraba"
+      ]
     },
     {
       "pembicara": "Syuaib",
       "ucapan": "Gugu... ga!",
-      "indera_terlibat": ["pendengaran"]
+      "node_kata": [
+        "gugu",
+        "ga"
+      ],
+      "node_makna": [
+        "gugu",
+        "ga"
+      ],
+      "indera_terlibat": [
+        "pendengaran"
+      ]
     },
     {
       "pembicara": "Ayah Idris",
       "ucapan": "Assalamu'alaikum, Syuaib. Ayah datang melihat jagoan kecil Ayah.",
-      "indera_terlibat": ["pendengaran", "penglihatan"]
+      "node_kata": [
+        "Assalamu'alaikum",
+        "Syuaib",
+        "Ayah",
+        "datang",
+        "melihat",
+        "jagoan",
+        "kecil",
+        "Ayah"
+      ],
+      "node_makna": [
+        "assalamu'alaikum syuaib",
+        "ayah datang melihat jagoan kecil ayah"
+      ],
+      "indera_terlibat": [
+        "pendengaran",
+        "penglihatan"
+      ]
     },
     {
       "pembicara": "Syuaib",
       "ucapan": "Aah... hehe!",
-      "indera_terlibat": ["pendengaran"]
+      "node_kata": [
+        "aah",
+        "hehe"
+      ],
+      "node_makna": [
+        "aah",
+        "hehe"
+      ],
+      "indera_terlibat": [
+        "pendengaran"
+      ]
     },
     {
       "pembicara": "Ibu Syamsiah",
       "ucapan": "Lihat, Yah. Syuaib senang mendengar suara Ayah.",
-      "indera_terlibat": ["penglihatan", "pendengaran"]
+      "node_kata": [
+        "lihat",
+        "yah",
+        "syuaib",
+        "senang",
+        "mendengar",
+        "suara",
+        "ayah"
+      ],
+      "node_makna": [
+        "lihat yah",
+        "syuaib senang mendengar suara ayah"
+      ],
+      "indera_terlibat": [
+        "penglihatan",
+        "pendengaran"
+      ]
     },
     {
       "pembicara": "Ayah Idris",
       "ucapan": "Ayah juga senang sekali. Setelah minum susu, kita lihat cahaya pagi di jendela, ya.",
-      "indera_terlibat": ["pendengaran", "penglihatan", "pengecap"]
+      "node_kata": [
+        "ayah",
+        "juga",
+        "senang",
+        "sekali",
+        "Setelah",
+        "minum",
+        "susu",
+        "kita",
+        "lihat",
+        "cahaya",
+        "pagi",
+        "di",
+        "jendela",
+        "ya"
+      ],
+      "node_makna": [
+        "ayah juga senang sekali",
+        "setelah minum susu",
+        "kita lihat cahaya pagi di jendela ya"
+      ],
+      "indera_terlibat": [
+        "pendengaran",
+        "penglihatan",
+        "pengecap"
+      ]
     },
     {
       "pembicara": "Syuaib",
       "ucapan": "Mm... mm...",
-      "indera_terlibat": ["pendengaran", "pengecap"]
+      "node_kata": [
+        "mm",
+        "mm"
+      ],
+      "node_makna": [
+        "mm",
+        "mm"
+      ],
+      "indera_terlibat": [
+        "pendengaran",
+        "pengecap"
+      ]
     },
     {
       "pembicara": "Ibu Syamsiah",
       "ucapan": "Pelan-pelan, Sayang. Kamu tumbuh sehat setiap hari, dan Ibu bahagia melihatmu.",
-      "indera_terlibat": ["pendengaran", "penglihatan"]
+      "node_kata": [
+        "pelan",
+        "pelan",
+        "sayang",
+        "kamu",
+        "tumbuh",
+        "sehat",
+        "setiap",
+        "hari",
+        "dan",
+        "ibu",
+        "bahagia",
+        "melihatmu"
+      ],
+      "node_makna": [
+        "pelan pelan sayang",
+        "kamu tumbuh sehat setiap hari",
+        "dan ibu bahagia melihatmu"
+      ],
+      "indera_terlibat": [
+        "pendengaran",
+        "penglihatan"
+      ]
     },
     {
       "pembicara": "Syuaib",
       "ucapan": "Hehe!",
-      "indera_terlibat": ["pendengaran"]
+      "node_kata": [
+        "hehe"
+      ],
+      "node_makna": [
+        "hehe"
+      ],
+      "indera_terlibat": [
+        "pendengaran"
+      ]
     },
     {
       "pembicara": "Ayah Idris",
-      "ucapan": "Tawa Syuaib adalah kebahagiaan Ayah dan Ibu.",
-      "indera_terlibat": ["pendengaran"]
+      "ucapan": "Mama lihat, Syuaib tertawa.",
+      "node_kata": [
+        "mama",
+        "lihat",
+        "syuaib",
+        "tertawa"
+      ],
+      "node_makna": [
+        "mama lihat",
+        "syuaib tertawa"
+      ],
+      "indera_terlibat": [
+        "pendengaran"
+      ]
     },
     {
       "pembicara": "Ibu Syamsiah",
-      "ucapan": "Kami sayang sekali kepada Syuaib.",
-      "indera_terlibat": ["pendengaran", "penglihatan"]
+      "ucapan": "Lucunya, mama sayang Syuaib.",
+      "node_kata": [
+        "lucunya",
+        "mama",
+        "sayang",
+        "syuaib"
+      ],
+      "node_makna": [
+        "lucunya",
+        "mama sayang syuaib"
+      ],
+      "indera_terlibat": [
+        "pendengaran",
+        "penglihatan"
+      ]
+    }
+  ],
+  "node_kata_lama": [
+    {
+      "penutur": "syamsiah",
+      "id": 1,
+      "kata": [
+        {
+          "id": 1,
+          "kata": "selamat",
+          "frekuensi": 1
+        },
+        {
+          "id": 2,
+          "kata": "pagi",
+          "frekuensi": 1
+        },
+        {
+          "id": 3,
+          "kata": "syuaib",
+          "frekuensi": 1
+        },
+        {
+          "id": 4,
+          "kata": "sudah",
+          "frekuensi": 1
+        },
+        {
+          "id": 5,
+          "kata": "bangun",
+          "frekuensi": 1
+        },
+        {
+          "id": 6,
+          "kata": "ya",
+          "frekuensi": 1
+        },
+        {
+          "id": 7,
+          "kata": "wah",
+          "frekuensi": 1
+        },
+        {
+          "id": 8,
+          "kata": "ada",
+          "frekuensi": 1
+        },
+        {
+          "id": 9,
+          "kata": "senyum",
+          "frekuensi": 1
+        },
+        {
+          "id": 10,
+          "kata": "untuk",
+          "frekuensi": 1
+        },
+        {
+          "id": 11,
+          "kata": "ibu",
+          "frekuensi": 1
+        },
+        {
+          "id": 12,
+          "kata": "semalam",
+          "frekuensi": 1
+        },
+        {
+          "id": 13,
+          "kata": "tidurnya",
+          "frekuensi": 1
+        },
+        {
+          "id": 14,
+          "kata": "nyenyak",
+          "frekuensi": 1
+        },
+        {
+          "id": 15,
+          "kata": "hehe",
+          "frekuensi": 1
+        },
+        {
+          "id": 16,
+          "kata": "eee",
+          "frekuensi": 1
+        },
+        {
+          "id": 17,
+          "kata": "anggap",
+          "frekuensi": 1
+        },
+        {
+          "id": 18,
+          "kata": "itu",
+          "frekuensi": 1
+        },
+        {
+          "id": 19,
+          "kata": "jawaban",
+          "frekuensi": 1
+        },
+        {
+          "id": 20,
+          "kata": "iya",
+          "frekuensi": 1
+        },
+        {
+          "id": 21,
+          "kata": "yuk",
+          "frekuensi": 1
+        },
+        {
+          "id": 22,
+          "kata": "kita",
+          "frekuensi": 1
+        },
+        {
+          "id": 23,
+          "kata": "ganti",
+          "frekuensi": 1
+        },
+        {
+          "id": 24,
+          "kata": "popok",
+          "frekuensi": 1
+        },
+        {
+          "id": 25,
+          "kata": "dulu",
+          "frekuensi": 1
+        },
+        {
+          "id": 26,
+          "kata": "supaya",
+          "frekuensi": 1
+        },
+        {
+          "id": 27,
+          "kata": "nyaman",
+          "frekuensi": 1
+        },
+        {
+          "id": 28,
+          "kata": "sebentar",
+          "frekuensi": 1
+        },
+        {
+          "id": 29,
+          "kata": "saja",
+          "frekuensi": 1
+        },
+        {
+          "id": 30,
+          "kata": "nak",
+          "frekuensi": 1
+        },
+        {
+          "id": 31,
+          "kata": "di",
+          "frekuensi": 1
+        },
+        {
+          "id": 32,
+          "kata": "sini",
+          "frekuensi": 1
+        },
+        {
+          "id": 33,
+          "kata": "kok",
+          "frekuensi": 1
+        },
+        {
+          "id": 34,
+          "kata": "tidak",
+          "frekuensi": 1
+        },
+        {
+          "id": 35,
+          "kata": "perlu",
+          "frekuensi": 1
+        },
+        {
+          "id": 36,
+          "kata": "khawatir",
+          "frekuensi": 1
+        }
+      ],
+      "indera_terlibat": [
+        "pendengaran",
+        "penglihatan",
+        "peraba"
+      ],
+      "makna": [
+        "selamat pagi syuaib",
+        "sudah bangun ya",
+        "ada senyum untuk ibu",
+        "semalam tidurnya nyenyak",
+        "anggap itu jawaban iya",
+        "yuk kita ganti popok dulu",
+        "supaya nyaman",
+        "sebentar saja nak",
+        "ibu di sini kok",
+        "tidak perlu khawatir"
+      ]
+    },
+    {
+      "penutur": "syuaib",
+      "id": 2,
+      "kata": [
+        "aaa",
+        "baa",
+        "uaa",
+        "gugu",
+        "ga",
+        "aah",
+        "hehe",
+        "mm"
+      ],
+      "indera_terlibat": [
+        "pendengaran",
+        "peraba",
+        "pengecap"
+      ],
+      "makna": [
+        "aaa",
+        "baa",
+        "uaa",
+        "gugu",
+        "ga",
+        "aah",
+        "hehe",
+        "mm"
+      ]
+    },
+    {
+      "penutur": "idris",
+      "id": 3,
+      "kata": [
+        "assalamu'alaikum",
+        "ayah",
+        "datang",
+        "melihat",
+        "jagoan",
+        "kecil",
+        "juga",
+        "senang",
+        "sekali",
+        "setelah",
+        "minum",
+        "susu",
+        "lihat",
+        "cahaya",
+        "pagi",
+        "di",
+        "jendela"
+      ],
+      "indera_terlibat": [
+        "pendengaran",
+        "penglihatan",
+        "pengecap"
+      ],
+      "makna": [
+        "assalamu'alaikum syuaib",
+        "ayah datang melihat jagoan kecil ayah",
+        "ayah juga senang sekali",
+        "setelah minum susu",
+        "kita lihat cahaya pagi di jendela ya"
+      ]
+    }
+  ],
+  "node_kata": [
+    {
+      "penutur": "syamsiah",
+      "id": 1,
+      "kata": [
+        { "id": 1, "kata": "selamat", "frekuensi": 1 }, { "id": 2, "kata": "pagi", "frekuensi": 1 },
+        { "id": 3, "kata": "syuaib", "frekuensi": 3 }, { "id": 4, "kata": "sudah", "frekuensi": 1 },
+        { "id": 5, "kata": "bangun", "frekuensi": 1 }, { "id": 6, "kata": "ya", "frekuensi": 1 },
+        { "id": 7, "kata": "wah", "frekuensi": 1 }, { "id": 8, "kata": "ada", "frekuensi": 1 },
+        { "id": 9, "kata": "senyum", "frekuensi": 1 }, { "id": 10, "kata": "untuk", "frekuensi": 1 },
+        { "id": 11, "kata": "ibu", "frekuensi": 4 }, { "id": 12, "kata": "semalam", "frekuensi": 1 },
+        { "id": 13, "kata": "tidurnya", "frekuensi": 1 }, { "id": 14, "kata": "nyenyak", "frekuensi": 1 },
+        { "id": 15, "kata": "anggap", "frekuensi": 1 }, { "id": 16, "kata": "itu", "frekuensi": 1 },
+        { "id": 17, "kata": "jawaban", "frekuensi": 1 }, { "id": 18, "kata": "iya", "frekuensi": 1 },
+        { "id": 19, "kata": "yuk", "frekuensi": 1 }, { "id": 20, "kata": "kita", "frekuensi": 1 },
+        { "id": 21, "kata": "ganti", "frekuensi": 1 }, { "id": 22, "kata": "popok", "frekuensi": 1 },
+        { "id": 23, "kata": "dulu", "frekuensi": 1 }, { "id": 24, "kata": "supaya", "frekuensi": 1 },
+        { "id": 25, "kata": "nyaman", "frekuensi": 1 }, { "id": 26, "kata": "sebentar", "frekuensi": 1 },
+        { "id": 27, "kata": "saja", "frekuensi": 1 }, { "id": 28, "kata": "nak", "frekuensi": 1 },
+        { "id": 29, "kata": "di", "frekuensi": 1 }, { "id": 30, "kata": "sini", "frekuensi": 1 },
+        { "id": 31, "kata": "kok", "frekuensi": 1 }, { "id": 32, "kata": "tidak", "frekuensi": 1 },
+        { "id": 33, "kata": "perlu", "frekuensi": 1 }, { "id": 34, "kata": "khawatir", "frekuensi": 1 },
+        { "id": 35, "kata": "lihat", "frekuensi": 1 }, { "id": 36, "kata": "yah", "frekuensi": 1 },
+        { "id": 37, "kata": "senang", "frekuensi": 1 }, { "id": 38, "kata": "mendengar", "frekuensi": 1 },
+        { "id": 39, "kata": "suara", "frekuensi": 1 }, { "id": 40, "kata": "ayah", "frekuensi": 1 },
+        { "id": 41, "kata": "pelan", "frekuensi": 2 }, { "id": 42, "kata": "sayang", "frekuensi": 2 },
+        { "id": 43, "kata": "kamu", "frekuensi": 1 }, { "id": 44, "kata": "tumbuh", "frekuensi": 1 },
+        { "id": 45, "kata": "sehat", "frekuensi": 1 }, { "id": 46, "kata": "setiap", "frekuensi": 1 },
+        { "id": 47, "kata": "hari", "frekuensi": 1 }, { "id": 48, "kata": "dan", "frekuensi": 1 },
+        { "id": 49, "kata": "bahagia", "frekuensi": 1 }, { "id": 50, "kata": "melihatmu", "frekuensi": 1 },
+        { "id": 51, "kata": "lucunya", "frekuensi": 1 }, { "id": 52, "kata": "mama", "frekuensi": 1 }
+      ],
+      "indera_terlibat": ["pendengaran", "penglihatan", "peraba"]
+    },
+    {
+      "penutur": "syuaib",
+      "id": 2,
+      "kata": [
+        { "id": 1, "kata": "aaa", "frekuensi": 1 }, { "id": 2, "kata": "baa", "frekuensi": 1 },
+        { "id": 3, "kata": "hehe", "frekuensi": 3 }, { "id": 4, "kata": "eee", "frekuensi": 1 },
+        { "id": 5, "kata": "uaa", "frekuensi": 2 }, { "id": 6, "kata": "gugu", "frekuensi": 1 },
+        { "id": 7, "kata": "ga", "frekuensi": 1 }, { "id": 8, "kata": "aah", "frekuensi": 1 },
+        { "id": 9, "kata": "mm", "frekuensi": 2 }
+      ],
+      "indera_terlibat": ["pendengaran", "peraba", "pengecap"]
+    },
+    {
+      "penutur": "idris",
+      "id": 3,
+      "kata": [
+        { "id": 1, "kata": "assalamu'alaikum", "frekuensi": 1 }, { "id": 2, "kata": "syuaib", "frekuensi": 2 },
+        { "id": 3, "kata": "ayah", "frekuensi": 3 }, { "id": 4, "kata": "datang", "frekuensi": 1 },
+        { "id": 5, "kata": "melihat", "frekuensi": 1 }, { "id": 6, "kata": "jagoan", "frekuensi": 1 },
+        { "id": 7, "kata": "kecil", "frekuensi": 1 }, { "id": 8, "kata": "juga", "frekuensi": 1 },
+        { "id": 9, "kata": "senang", "frekuensi": 1 }, { "id": 10, "kata": "sekali", "frekuensi": 1 },
+        { "id": 11, "kata": "setelah", "frekuensi": 1 }, { "id": 12, "kata": "minum", "frekuensi": 1 },
+        { "id": 13, "kata": "susu", "frekuensi": 1 }, { "id": 14, "kata": "kita", "frekuensi": 1 },
+        { "id": 15, "kata": "lihat", "frekuensi": 2 }, { "id": 16, "kata": "cahaya", "frekuensi": 1 },
+        { "id": 17, "kata": "pagi", "frekuensi": 1 }, { "id": 18, "kata": "di", "frekuensi": 1 },
+        { "id": 19, "kata": "jendela", "frekuensi": 1 }, { "id": 20, "kata": "ya", "frekuensi": 1 },
+        { "id": 21, "kata": "mama", "frekuensi": 1 }, { "id": 22, "kata": "tertawa", "frekuensi": 1 }
+      ],
+      "indera_terlibat": ["pendengaran", "penglihatan", "pengecap"]
     }
   ]
 }

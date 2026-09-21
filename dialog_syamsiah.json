@@ -1,0 +1,213 @@
+{
+  "judul": "Dialog Ibu Syamsiah",
+  "penutur": {
+    "nama": "Syamsiah",
+    "peran": "Ibu"
+  },
+  "dialog": [
+    {
+      "penutur": "Ibu Syamsiah",
+      "ucapan": "Selamat pagi, Syuaib. Sudah bangun, ya?",
+      "node_kata": ["selamat", "pagi", "syuaib", "sudah", "bangun", "ya"],
+      "node_makna": ["selamat pagi syuaib", "sudah bangun ya"],
+      "indera_terlibat": ["pendengaran", "penglihatan"]
+    },
+    {
+      "penutur": "Ibu Syamsiah",
+      "ucapan": "Wah, ada senyum untuk Ibu. Semalam tidurnya nyenyak?",
+      "node_kata": ["wah", "ada", "senyum", "untuk", "ibu", "semalam", "tidurnya", "nyenyak"],
+      "node_makna": ["ada senyum untuk ibu", "semalam tidurnya nyenyak"],
+      "indera_terlibat": ["penglihatan", "pendengaran"]
+    },
+    {
+      "penutur": "Ibu Syamsiah",
+      "ucapan": "Ibu anggap itu jawaban ‘iya’. Yuk, kita ganti popok dulu supaya nyaman.",
+      "node_kata": ["ibu", "anggap", "itu", "jawaban", "iya", "yuk", "kita", "ganti", "popok", "dulu", "supaya", "nyaman"],
+      "node_makna": ["ibu anggap itu jawaban iya", "yuk kita ganti popok dulu", "supaya nyaman"],
+      "indera_terlibat": ["pendengaran", "peraba"]
+    },
+    {
+      "penutur": "Ibu Syamsiah",
+      "ucapan": "Sebentar saja, Nak. Ibu di sini, kok. Tidak perlu khawatir.",
+      "node_kata": ["sebentar", "saja", "nak", "ibu", "di", "sini", "kok", "tidak", "perlu", "khawatir"],
+      "node_makna": ["sebentar saja nak", "ibu di sini kok", "tidak perlu khawatir"],
+      "indera_terlibat": ["pendengaran", "peraba"]
+    },
+    {
+      "penutur": "Ibu Syamsiah",
+      "ucapan": "Lihat, Yah. Syuaib senang mendengar suara Ayah.",
+      "node_kata": ["lihat", "yah", "syuaib", "senang", "mendengar", "suara", "ayah"],
+      "node_makna": ["lihat yah", "syuaib senang mendengar suara ayah"],
+      "indera_terlibat": ["penglihatan", "pendengaran"]
+    },
+    {
+      "penutur": "Ibu Syamsiah",
+      "ucapan": "Pelan-pelan, Sayang. Kamu tumbuh sehat setiap hari, dan Ibu bahagia melihatmu.",
+      "node_kata": ["pelan", "pelan", "sayang", "kamu", "tumbuh", "sehat", "setiap", "hari", "dan", "ibu", "bahagia", "melihatmu"],
+      "node_makna": ["pelan pelan sayang", "kamu tumbuh sehat setiap hari", "dan ibu bahagia melihatmu"],
+      "indera_terlibat": ["pendengaran", "penglihatan"]
+    },
+    {
+      "penutur": "Ibu Syamsiah",
+      "ucapan": "Lucunya, mama sayang Syuaib.",
+      "node_kata": ["lucunya", "mama", "sayang", "syuaib"],
+      "node_makna": ["lucunya", "mama sayang syuaib"],
+      "indera_terlibat": ["pendengaran", "penglihatan"]
+    }
+  ],
+  "node_kata": [
+    { "id": 1, "kata": "selamat", "frekuensi": 1, "aktif": false },
+    { "id": 2, "kata": "pagi", "frekuensi": 1, "aktif": false },
+    { "id": 3, "kata": "syuaib", "frekuensi": 3, "aktif": false },
+    { "id": 4, "kata": "sudah", "frekuensi": 1, "aktif": false },
+    { "id": 5, "kata": "bangun", "frekuensi": 1, "aktif": false },
+    { "id": 6, "kata": "ya", "frekuensi": 1, "aktif": false },
+    { "id": 7, "kata": "wah", "frekuensi": 1, "aktif": false },
+    { "id": 8, "kata": "ada", "frekuensi": 1, "aktif": false },
+    { "id": 9, "kata": "senyum", "frekuensi": 1, "aktif": false },
+    { "id": 10, "kata": "untuk", "frekuensi": 1, "aktif": false },
+    { "id": 11, "kata": "ibu", "frekuensi": 4, "aktif": false },
+    { "id": 12, "kata": "semalam", "frekuensi": 1, "aktif": false },
+    { "id": 13, "kata": "tidurnya", "frekuensi": 1, "aktif": false },
+    { "id": 14, "kata": "nyenyak", "frekuensi": 1, "aktif": false },
+    { "id": 15, "kata": "anggap", "frekuensi": 1, "aktif": false },
+    { "id": 16, "kata": "itu", "frekuensi": 1, "aktif": false },
+    { "id": 17, "kata": "jawaban", "frekuensi": 1, "aktif": false },
+    { "id": 18, "kata": "iya", "frekuensi": 1, "aktif": false },
+    { "id": 19, "kata": "yuk", "frekuensi": 1, "aktif": false },
+    { "id": 20, "kata": "kita", "frekuensi": 1, "aktif": false },
+    { "id": 21, "kata": "ganti", "frekuensi": 1, "aktif": false },
+    { "id": 22, "kata": "popok", "frekuensi": 1, "aktif": false },
+    { "id": 23, "kata": "dulu", "frekuensi": 1, "aktif": false },
+    { "id": 24, "kata": "supaya", "frekuensi": 1, "aktif": false },
+    { "id": 25, "kata": "nyaman", "frekuensi": 1, "aktif": false },
+    { "id": 26, "kata": "sebentar", "frekuensi": 1, "aktif": false },
+    { "id": 27, "kata": "saja", "frekuensi": 1, "aktif": false },
+    { "id": 28, "kata": "nak", "frekuensi": 1, "aktif": false },
+    { "id": 29, "kata": "di", "frekuensi": 1, "aktif": false },
+    { "id": 30, "kata": "sini", "frekuensi": 1, "aktif": false },
+    { "id": 31, "kata": "kok", "frekuensi": 1, "aktif": false },
+    { "id": 32, "kata": "tidak", "frekuensi": 1, "aktif": false },
+    { "id": 33, "kata": "perlu", "frekuensi": 1, "aktif": false },
+    { "id": 34, "kata": "khawatir", "frekuensi": 1, "aktif": false },
+    { "id": 35, "kata": "lihat", "frekuensi": 1, "aktif": false },
+    { "id": 36, "kata": "yah", "frekuensi": 1, "aktif": false },
+    { "id": 37, "kata": "senang", "frekuensi": 1, "aktif": false },
+    { "id": 38, "kata": "mendengar", "frekuensi": 1, "aktif": false },
+    { "id": 39, "kata": "suara", "frekuensi": 1, "aktif": false },
+    { "id": 40, "kata": "ayah", "frekuensi": 1, "aktif": false },
+    { "id": 41, "kata": "pelan", "frekuensi": 2, "aktif": false },
+    { "id": 42, "kata": "sayang", "frekuensi": 2, "aktif": false },
+    { "id": 43, "kata": "kamu", "frekuensi": 1, "aktif": false },
+    { "id": 44, "kata": "tumbuh", "frekuensi": 1, "aktif": false },
+    { "id": 45, "kata": "sehat", "frekuensi": 1, "aktif": false },
+    { "id": 46, "kata": "setiap", "frekuensi": 1, "aktif": false },
+    { "id": 47, "kata": "hari", "frekuensi": 1, "aktif": false },
+    { "id": 48, "kata": "dan", "frekuensi": 1, "aktif": false },
+    { "id": 49, "kata": "bahagia", "frekuensi": 1, "aktif": false },
+    { "id": 50, "kata": "melihatmu", "frekuensi": 1, "aktif": false },
+    { "id": 51, "kata": "lucunya", "frekuensi": 1, "aktif": false },
+    { "id": 52, "kata": "mama", "frekuensi": 1, "aktif": false }
+  ],
+  "node_makna": [
+    { "id": 1, "makna": "selamat pagi syuaib", "node_kata_ids": [1, 2, 3], "aktif": false },
+    { "id": 2, "makna": "sudah bangun ya", "node_kata_ids": [4, 5, 6], "aktif": false },
+    { "id": 3, "makna": "ada senyum untuk ibu", "node_kata_ids": [8, 9, 10, 11], "aktif": false },
+    { "id": 4, "makna": "semalam tidurnya nyenyak", "node_kata_ids": [12, 13, 14], "aktif": false },
+    { "id": 5, "makna": "ibu anggap itu jawaban iya", "node_kata_ids": [11, 15, 16, 17, 18], "aktif": false },
+    { "id": 6, "makna": "yuk kita ganti popok dulu", "node_kata_ids": [19, 20, 21, 22, 23], "aktif": false },
+    { "id": 7, "makna": "supaya nyaman", "node_kata_ids": [24, 25], "aktif": false },
+    { "id": 8, "makna": "sebentar saja nak", "node_kata_ids": [26, 27, 28], "aktif": false },
+    { "id": 9, "makna": "ibu di sini kok", "node_kata_ids": [11, 29, 30, 31], "aktif": false },
+    { "id": 10, "makna": "tidak perlu khawatir", "node_kata_ids": [32, 33, 34], "aktif": false },
+    { "id": 11, "makna": "lihat yah", "node_kata_ids": [35, 36], "aktif": false },
+    { "id": 12, "makna": "syuaib senang mendengar suara ayah", "node_kata_ids": [3, 37, 38, 39, 40], "aktif": false },
+    { "id": 13, "makna": "pelan pelan sayang", "node_kata_ids": [41, 42], "aktif": false },
+    { "id": 14, "makna": "kamu tumbuh sehat setiap hari", "node_kata_ids": [43, 44, 45, 46, 47], "aktif": false },
+    { "id": 15, "makna": "dan ibu bahagia melihatmu", "node_kata_ids": [48, 11, 49, 50], "aktif": false },
+    { "id": 16, "makna": "lucunya", "node_kata_ids": [51], "aktif": false },
+    { "id": 17, "makna": "mama sayang syuaib", "node_kata_ids": [52, 42, 3], "aktif": false }
+  ],
+  "kamus_indera": {
+    "deskripsi": "Kamus nilai kanonis untuk node_indera. Setiap node harus merujuk ID dari kamus ini agar istilah yang sama selalu memiliki makna dan penulisan yang konsisten.",
+    "sumber_data": [
+      {
+        "id": "sumber-sintetis",
+        "nama": "sintetis",
+        "deskripsi": "Data contoh yang dibuat secara terencana, bukan hasil pembacaan langsung dari sensor fisik."
+      }
+    ],
+    "jenis": [
+      {
+        "id": "jenis-objek-fisik",
+        "nama": "objek_fisik",
+        "deskripsi": "Entitas berwujud yang dapat diamati langsung, misalnya melalui penglihatan atau sentuhan."
+      },
+      {
+        "id": "jenis-konteks-temporal-visual",
+        "nama": "konteks_temporal_visual",
+        "deskripsi": "Keadaan waktu yang dikenali melalui tanda visual, misalnya kondisi cahaya dan posisi matahari pada pagi hari."
+      }
+    ],
+    "modalitas": [
+      {
+        "id": "modalitas-penglihatan",
+        "nama": "penglihatan",
+        "deskripsi": "Informasi yang dapat diterima melalui mata, seperti bentuk, warna, cahaya, dan posisi."
+      },
+      {
+        "id": "modalitas-peraba",
+        "nama": "peraba",
+        "deskripsi": "Informasi yang dapat diterima melalui sentuhan, seperti tekstur, kekerasan, dan suhu."
+      }
+    ],
+    "ciri_pembeda": [
+      {
+        "id": "ciri-visual-bentuk-berlapis",
+        "modalitas_id": "modalitas-penglihatan",
+        "nilai": "bentuk_berlapis",
+        "deskripsi": "Ciri visual berupa susunan beberapa lapisan yang membedakan popok dari benda datar satu lapis."
+      },
+      {
+        "id": "ciri-peraba-tekstur-lunak",
+        "modalitas_id": "modalitas-peraba",
+        "nilai": "tekstur_lunak",
+        "deskripsi": "Ciri sentuhan yang menunjukkan permukaan atau bahan mudah ditekan dan tidak keras."
+      },
+      {
+        "id": "ciri-visual-cahaya-pagi",
+        "modalitas_id": "modalitas-penglihatan",
+        "nilai": "cahaya_pagi",
+        "deskripsi": "Ciri visual berupa intensitas dan nuansa cahaya yang digunakan secara sintetis untuk menandai suasana pagi."
+      },
+      {
+        "id": "ciri-visual-matahari-rendah",
+        "modalitas_id": "modalitas-penglihatan",
+        "nilai": "matahari_rendah",
+        "deskripsi": "Ciri visual berupa posisi matahari yang masih rendah di langit sebagai penanda sintetis konteks pagi."
+      }
+    ]
+  },
+  "node_indera": [
+    {
+      "id": "indra-001",
+      "nama": "popok",
+      "jenis_id": "jenis-objek-fisik",
+      "node_kata_ids": [22],
+      "modalitas_ids": ["modalitas-penglihatan", "modalitas-peraba"],
+      "ciri_pembeda_ids": ["ciri-visual-bentuk-berlapis", "ciri-peraba-tekstur-lunak"],
+      "sumber_data_id": "sumber-sintetis",
+      "aktif": false
+    },
+    {
+      "id": "indra-002",
+      "nama": "pagi",
+      "jenis_id": "jenis-konteks-temporal-visual",
+      "node_kata_ids": [2],
+      "modalitas_ids": ["modalitas-penglihatan"],
+      "ciri_pembeda_ids": ["ciri-visual-cahaya-pagi", "ciri-visual-matahari-rendah"],
+      "sumber_data_id": "sumber-sintetis",
+      "aktif": false
+    }
+  ]
+}
